@@ -79,7 +79,6 @@ The `AppSettings` are injected into `ExternalUserService` using the `IOptions<T>
 
 ## ✅ Features & Design Decisions
 
-### 🔁 Retry with Polly
 Implemented in `Program.cs` during `HttpClient` registration:
 
 
